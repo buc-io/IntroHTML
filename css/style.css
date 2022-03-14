@@ -1,0 +1,135 @@
+*{
+    font-family: sans-serif ;
+}
+body{
+    margin: 2px;
+    background: blanchedalmond;
+    background-image: linear-gradient(to right, #FBF8CC 0%, rgb(255, 240, 208) 100%)
+}
+.pastelChoco{
+    text-align: center;
+    justify-content: center;
+    margin-left: 0;
+    margin-right: 0;
+   
+}
+.imgPrimera{
+    margin-bottom: 0;
+    margin-top: 3px;
+    border-style: solid;
+    border-radius: 10%;
+    border-width: 1px;
+    box-shadow:-3px 3px 10px 8px #CFBAF0 ;
+}
+.imgSegunda{
+    margin: 2px;
+    padding: 10px;
+    border-style: none;
+    border-radius: 10%;
+    background-color: #F1C0E8 ;
+}
+.fraseInicio{
+    background-color: whitesmoke;
+    height: 30px;
+    margin-top: 2%;
+    background-image: linear-gradient(to right, #FBF8CC 0%, rgb(255, 240, 208) 100%)
+}
+h1, h2{
+    justify-content: center;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family:sans-serif;
+}
+.barraN{
+    text-align: center;
+    padding: 10px;
+}
+h5{
+    margin: 1px;
+    margin-bottom: 10%;
+    font-family: sans-serif;
+}
+ul.lista{
+    list-style: none;
+    list-style-position: center;
+    display: inline-flex;   
+    justify-content: center; 
+}
+.hrNavbar{
+  
+    margin-top: -10px;
+}
+li.objeto1{
+   /* display: inline-block;*/
+   padding-left: 0em;
+}
+li.objeto2{
+    padding-left: 6em;
+}
+li.objeto3{
+    padding-left: 6em;
+}
+h3{
+    text-align: center;
+}
+.separacion{
+    margin: 0;
+}
+.secD{
+    height: 40%;
+    width: 100%;
+    padding: initial;
+}
+.descripcionT{
+    width: 54%;
+    height: 150px;
+    float: right;
+    
+}
+.descripTimg{
+    margin-left: 1em;
+    width: 310px;
+    height: 180px;
+}
+.formulario{
+    background-color: darkslateblue ; 
+}
+.formData{
+    width: 27%;
+    float: right;
+    margin-left: 0;
+    margin-right: 10%;
+    margin-top: -27%;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5%;
+    padding: 25px;
+    background-color: #F1C0E8;
+    box-shadow: -7px 7px 10px 8px #CFBAF0;
+}
+table{
+    margin-left: 2em;
+}
+input{
+    width: 65%;
+}
+.direccion{
+    width: 56%;
+    margin: 10%, 0,  5%, 5%;
+
+
+    
+}
+.address{
+    font-weight: bold;
+    font-weight: 1.1em;
+    margin-top: 1em;
+    display: inline-block;
+    padding-left: 12px;
+  }
+  i{
+      color: red;
+  }

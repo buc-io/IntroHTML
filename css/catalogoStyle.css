@@ -1,0 +1,79 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: blanchedalmond;
+    background-image: linear-gradient(to right, #FBF8CC 0%, rgb(255, 240, 208) 100%);
+}
+nav{
+    text-align: center;
+}
+.imgLogo{
+    width: 130px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.navBarinicio{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.navBar{
+    margin-left: 2%;
+}
+.backHome{
+    text-decoration: none;
+    color: black;
+}
+hr{
+    margin-top: -10px;
+}
+.subTitulo{
+    text-align: center;
+}
+.imgTable{
+    width: 70%;
+    background-image: none;
+    background: none;
+    padding-right: 0px;
+    margin-bottom: 10%;
+    border: 2px solid black;
+    border-radius: 5px;
+    animation-delay: .5s;
+}
+td{
+    display: flex;
+    justify-content: space-around;
+}
+td.ultimaTabla{
+    display:inline-flex;
+    justify-content: space-between;
+}
+.tableUltima{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-left: 10%;
+}
+.imgTabledos{
+    width: 55%;
+    background-image: none;
+    background: none;
+    padding-right: 0px;
+    margin-bottom: 5%;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.botonAgregar{
+width: 15%;
+height: 2%;
+margin-top: 15%;
+}
+ul.toppingList{
+    width: 22%;
+    
+}
